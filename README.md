@@ -5,8 +5,8 @@
 My name is @jsteemann. 
 I love cats, veganism, segfaults and more!
 
-I am a developer working on [https://github.com/arangodb/arangodb](ArangoDB, the multi-model database) 🥑 and 
-the [https://github.com/arangodb/velocypack](VelocyPack serialization and storage format).
+I am a developer working on [ArangoDB, the multi-model database](https://github.com/arangodb/arangodb) 🥑 and 
+the [VelocyPack serialization and storage format](https://github.com/arangodb/velocypack).
 
 My favorite types of bugs are:
 * `goto fail; goto fail;`
